@@ -1,0 +1,1 @@
+the flash adc should be in realitiy a lot bigger so we can get a better resolutuion but its okay for our purpose of leraning. I had trouble with the encoder so i just left the wires at the with comments but I think it works. atleast for V min = 0.not sure if it will behave correct for V min smaller than 0
